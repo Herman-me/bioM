@@ -113,3 +113,14 @@ body{
     .naghleGhol strong{
       margin-left: 20px;
     }
+    .textInfo{
+      padding-bottom: 30px;
+    }
+    .imageInfo{
+      background:linear-gradient( #0f0aff33, #4f57fc99 ),url('../img/bioImg.jpg');
+    }
+    .imageInfo .dis{
+      margin-top:460px;
+      text-align: left;
+      color:white;
+    }

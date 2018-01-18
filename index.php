@@ -106,9 +106,12 @@
             <!-- End of TextInfo-->
 
 
-
+            <!-- Start imageInfo -->
             <div class="col-sm-4 imageInfo">
-
+              <div class="dis">
+                <h4>مهدی رحیمی</h4>
+                <span>طراح و توسعه دهنده وب</span>
+              </div>
             </div>
           </div>
         </div>
