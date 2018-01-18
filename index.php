@@ -82,11 +82,25 @@
                 <div class="col-sm-8 social">
                   <a href=""> <button><i class="fab fa-facebook-f"></i> فیسبوک</button></a>
                   <a href=""> <button><i class="fab fa-twitter"></i> تویتر</button></a>
-                  <a href=""> <button><i class="fab fa-facebook-f"></i> فیسبوک</button></a>
-                  <a href=""> <button><i class="fab fa-facebook-f"></i> فیسبوک</button></a>
+                  <a href=""> <button><i class="fab fa-instagram"></i> ایمستاگرام</button></a>
+                  <a href=""> <button><i class="fab fa-google-plus-g"></i> گوگل پلاس</button></a>
                 </div>
               </div>
 
+
+
+               <!-- TextInfo NaghleGhol -->
+                <div class="naghleGhol">
+                  <strong>ایمیل : </strong><span>nabirios.mr@gmail.com</span>
+                  <strong>تلفن : </strong><span>09392433595</span><br>
+                  <strong>تاریخ تولد : </strong><span>10/11/1398</span>
+                  <strong>آدرس : </strong><span>خیابان طالقانی کوچه شهید کلها دوز پ 13</span><br>
+                  <strong>سایت : </strong><span>www.google.com</span>
+                  <strong>زبان : </strong><span>گرجی زبان</span>
+
+
+                </div>
+                <!-- End of the naghleGhol -->
 
             </div>
             <!-- End of TextInfo-->
